@@ -11,7 +11,7 @@
 * Audio feedback via mobile app (TTS)
 * Wireless camera feed from ESP32-CAM to smartphone
 * Lightweight and affordable solution
-* Fully mobile-based processing (no external modules)
+* Fully mobile-based processing 
 
 ---
 
@@ -19,7 +19,7 @@
 
 * **ESP32-CAM**
 * **Smartphone** (for processing and TTS playback)
-* **Power Supply** (USB or battery for ESP32-CAM)
+* **Power Supply** (Battery for ESP32-CAM)
 
 ---
 
@@ -29,7 +29,7 @@
 * **ESP32-CAM** firmware (for video streaming)
 * **Custom Android App** (handles video stream, detection, and audio feedback)
 * **Arduino IDE** (for ESP32-CAM programming)
-* **Python / Java (optional)** – depending on your app backend
+* **Java (optional)** – depending on your app backend
 
 ---
 
@@ -46,8 +46,7 @@
 
 * **University:** National University of Sciences and Technology (NUST)
 * **School:** School of Electrical Engineering and Computer Science (SEECS)
-* **Degree Program:** MS Information Technology
-* **Project Type:** University Semester Project
+* **Degree Program:** MS Information Technology 2k24
 * **Team Members:**
 
   * Safee Ullah Mughal
@@ -75,9 +74,4 @@ SeeForMe/
 This project is a proprietary research prototype developed at the National University of Sciences and Technology (NUST), SEECS.  
 All rights are reserved by the project authors. No part of this project — including code, designs, or documentation — may be copied, distributed, or reused without explicit written permission.
 
-**Patent Pending.**
 
-
----
-
-Would you like a logo, banner, or poster design for your final presentation or GitHub page?
