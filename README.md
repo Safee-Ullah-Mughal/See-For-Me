@@ -1,10 +1,3 @@
-# See-For-Me
-A smart object and distance detection system using ESP32-CAM with text-to-speech guidance for visually impaired users.
-
-Great, thanks for the details. Based on that, here's your polished and professional `README.md` for the **SeeForMe** project:
-
----
-
 # SeeForMe
 
 **SeeForMe** is a smart assistive vision system built using an **ESP32-CAM** and a custom mobile application. It performs **object detection** and **distance estimation** using **OpenCV**, then provides **text-to-speech (TTS)** feedback to help visually impaired users perceive their surroundings audibly and in real time.
