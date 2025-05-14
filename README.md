@@ -60,6 +60,8 @@
 
 ## 🔒 Legal Notice
 
+Lisense: © Base Android application ESP32-CAM Ai was developed by Hackster.io for robotics. We modified to include object detection and text-to-speech (TTS) functionality.
+
 This project is a proprietary research prototype developed at the National University of Sciences and Technology (NUST), SEECS.  
 All rights are reserved by the project authors. No part of this project — including code, designs, or documentation — may be copied, distributed, or reused without explicit written permission.
 
